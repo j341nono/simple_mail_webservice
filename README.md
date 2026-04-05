@@ -1,5 +1,10 @@
 
+## compose を使った起動
+```bash
+docker compose up --detach --build
+```
 
+## コンテナの個別の起動
 ### Mail コンテナの起動
 ```bash
 docker container run \
