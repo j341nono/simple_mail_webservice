@@ -1,4 +1,8 @@
 
+## 注意点
+実行するには，以下のようにファイルをリネーム
+- `src/index.php.example` --> `src/index.php` 
+
 ## compose を使った起動
 ```bash
 docker compose up --detach --build
